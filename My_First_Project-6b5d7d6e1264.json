@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focus-ensign-269716",
+  "private_key_id": "6b5d7d6e1264e8901ca32dec29162e42cbc1cd1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3MSx3JgqmVtSN\nWXatyYQgtWBjw5T3cKV1/mF4xadNk2BKa3mK6Ihif3Mg7j5wK13CrLC3TuOlGwrq\nHSuB3ITg7IpKmNFqBd6AmL+JFWQKF66ABwiDEh97vnWWdFwoZRvYY4/SpqS9VCef\nWdZUCn7OiWXuos9Qry+Qb8XjN1S2P1xem2tV+T1hq3VQMPm4g05WqWp2Q16PFdTz\nWJYYqXdQmyQGsO/8Zc2l75LMQuO4XgIh8GV/9NBFnko3/zDv3vz4LoATRVxFqGnG\nKphGbHOzHKFtg1MTtEB8ocBzVvY3wbXO7FDx/sgtFJLEYJ/JwhYZx+uGHLwTwbT+\n6TDxug6JAgMBAAECggEABYWicP8BEC2K363kMW3jITdGbgttuJ25JxrhZkoS9ngs\nTWH6+nBy+AEef84erLPp8h3Rf90NaKMti4wQjSwQB1Wp/4Cmw1rk75xrHZ868kDv\nfiV4ILdRoqHFmqDsTD1r/vRVWAS0744TWa7UEpl0ZBZpL63RsP1u4hw0a1p2H74x\nIkkAmQNCcM+uIi5pd5EdFHY/VUDGW1ZZTBPI+hFjBiVRN9/wKA2ZOZhKX78f0fRr\nZZYJ8Iw19Nl0DIbzPHl+zOMRCcJ6Y/gYcrLXfcgAgwVOgLQ2m2PTFCrp0TipuCDk\ncbcorz8/EnjAYPSrc+UKj0pxL3jekL/MvTsJnnl/GQKBgQDhMuWUsPK3pyHLaI+2\nhYKcLdZ4k0wxHRJfRv+v83FDkcxvraIN9mvQSKzc6cvr0mf8gctP0x/XsXyJrCbP\n+AV/rOqlH2ECoapaCS1llZJegnnv7H0N/thJz+vfiSOd4BAtdz07zMpBQgyt//9B\nNTmipjpe+RArmqle5J9SZld/5QKBgQDQP3RpdxrwPYj1RyFGkj0xuoCu9GGN+TYc\nZaWK/+qAprmI2K53PpK8vWmXO33T7XIvnHW/4ISPvA507z0p5zt8mLX3fAWBTRsZ\njHxdDMuH78zvkzQaf6Xt/klqdFflfYTALkRx8S9NWl6KzntdFOPhfi3Jd9q7rNFj\ngtRq823B1QKBgFF+PZ5FOlBDZvNY70i5n74syEPx6cyMHK3l33kou4AcLsLrLo2m\n8vT4l7WJ1YWNKpwxzAUi/Y7sZ4jah2ES+8psJK2EYXK2VhMm5wqvybvxs3ajOc3q\nvxJW76CA3CaxgqkxUTNmtHpREI2W6iQKwsSdKtpbfwKIgWoZiZ4j8t4RAoGBAMa5\nhxGNw3s2fZfzBOIfc54c5+gM9XtSMjzvEwaOKO4ULEFW5UaNw+Gwry7OasjucmTU\n3dj5HAc94l3cX3W5X58K67r78xTsy8uZsKPrLd7PC7YjtzkCTwnJ+61G0QoCucfb\nXx2MlyMt9cJoQHkXEk+A5Zi4c1ddF4PquWJGYprxAoGBANIaqFMUaDWW0wxnO2g8\n7NRKdbK3T3BV4KuQR3B+MnG4gZnN5p4eQ9YgCENTmOLt9h+4g2YMHD1mONzU9pFy\n8BoN1RXRYIhYk3n+V7jCLiySF79Mo7OpzxRzb/2OJx9DZgMNxUz1B2unb4AejcFt\nu8Am68FAR3/IFfZpE0rY4p7K\n-----END PRIVATE KEY-----\n",
+  "client_email": "focus-ensign-269716@appspot.gserviceaccount.com",
+  "client_id": "108169550109027999103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/focus-ensign-269716%40appspot.gserviceaccount.com"
+}
